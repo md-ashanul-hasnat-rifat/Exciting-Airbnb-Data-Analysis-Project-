@@ -1,11 +1,11 @@
 # Hotel Management Booking Data Analysis Dashboard
 
-## 📊 Overview
+## Overview
 This project provides a comprehensive analysis of hotel booking data, focusing on revenue, cancellations, lead times, and distribution channels. The dashboard is designed to help hotel management teams make data-driven decisions to optimize performance and reduce revenue loss.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 - **Total Bookings & Revenue**: Track overall booking volume and revenue generation.
 - **Revenue Loss & Cancellation Rate**: Identify cancellation trends and quantify financial impact.
 - **Average Daily Rate (ADR)**: Monitor pricing effectiveness.
@@ -16,7 +16,7 @@ This project provides a comprehensive analysis of hotel booking data, focusing o
 
 ---
 
-## 📈 Dashboard Components
+## Dashboard Components
 1. **Seasonality Trend by Revenue & Loss (%)**
    - Monthly cancellation rates and revenue patterns.
 2. **Seasonality Trend by Revenue & Loss**
@@ -35,8 +35,8 @@ This project provides a comprehensive analysis of hotel booking data, focusing o
 
 ## 🛠️ Tech Stack
 - **Data Source**: Hotel booking dataset (2015–2017)
-- **Tools Used**: Power BI / Excel / SQL
-- **Visualization**: Interactive charts (bar, donut, line graphs)
+- **Tools Used**:Excel
+- **Visualisation**: Interactive charts (bar, donut, line graphs)
 
 ---
 
