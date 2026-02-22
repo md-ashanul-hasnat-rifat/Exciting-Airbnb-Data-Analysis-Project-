@@ -1,11 +1,72 @@
-# Exciting Airbnb Data Analysis Project 📊
+# Hotel Management Booking Data Analysis Dashboard
 
-Welcome to my latest project! As an avid data enthusiast, I've been delving into the world of Airbnb data analysis, and I'm thrilled to showcase the insights I've uncovered through an interactive dashboard created with Excel.
+## 📊 Overview
+This project provides a comprehensive analysis of hotel booking data, focusing on revenue, cancellations, lead times, and distribution channels. The dashboard is designed to help hotel management teams make data-driven decisions to optimize performance and reduce revenue loss.
 
-From occupancy rates to pricing trends, my analysis offers a comprehensive look into the dynamics of the short-term rental market. With the power of data visualization, I've translated raw numbers into actionable insights, empowering decision-makers to make informed choices in this ever-evolving industry.
+---
 
-## Key Highlights:
-- **Tool Used**: Microsoft Excel
-- **Topics Covered**: Data Analysis, Airbnb, Real Estate Market Trends, Insights, Analytics, Dashboard, Data Visualization, Short Term Rentals, Property Management, Data-Driven Decision Making.
+## 🚀 Key Features
+- **Total Bookings & Revenue**: Track overall booking volume and revenue generation.
+- **Revenue Loss & Cancellation Rate**: Identify cancellation trends and quantify financial impact.
+- **Average Daily Rate (ADR)**: Monitor pricing effectiveness.
+- **Lead Time Analysis**: Compare short-term vs. long-term booking behaviors.
+- **Seasonality Trends**: Visualize monthly revenue and cancellation fluctuations.
+- **Channel Performance**: Evaluate revenue and cancellation rates across distribution channels.
+- **Regional Insights**: Assess revenue contributions by country/region.
 
-Interested in leveraging data to drive your business forward? Let's connect and explore opportunities to collaborate! 🚀
+---
+
+## 📈 Dashboard Components
+1. **Seasonality Trend by Revenue & Loss (%)**
+   - Monthly cancellation rates and revenue patterns.
+2. **Seasonality Trend by Revenue & Loss**
+   - Revenue vs. loss comparison across months.
+3. **Channel-wise Revenue & Loss (%)**
+   - Distribution channel performance breakdown.
+4. **Lead Time Group Analysis**
+   - Revenue split between 0–30 days vs. 30+ days.
+5. **Distribution Channel by Cancellation**
+   - Cancellation rates segmented by booking channel.
+6. **Revenue by Region**
+   - Country-level revenue contributions (e.g., Portugal leading at $9M).
+
+![Hotel Management Dashboard](Hotel management Data.jpg)
+---
+
+## 🛠️ Tech Stack
+- **Data Source**: Hotel booking dataset (2015–2017)
+- **Tools Used**: Power BI / Excel / SQL
+- **Visualization**: Interactive charts (bar, donut, line graphs)
+
+---
+
+## 🎯 Business Insights
+- High cancellation rate (37%) significantly impacts revenue.
+- Majority of revenue (74%) comes from long lead-time bookings.
+- Online Travel Agents contribute heavily to both revenue and cancellations.
+- Portugal is the top revenue-generating region.
+- Seasonality plays a major role, with peaks and dips across months.
+
+---
+
+## 📌 Usage
+1. Filter by:
+   - Hotel Type (City, Resort)
+   - Lead Time Group (0–30 Days, 30+ Days)
+   - Distribution Channel (Corporate, Direct, Offline Agent, Online Agent)
+   - Arrival Year (2015–2017)
+2. Explore interactive charts to identify trends and insights.
+3. Use findings to:
+   - Adjust pricing strategies
+   - Improve cancellation policies
+   - Optimize distribution channel mix
+
+---
+
+## 📂 Project Goals
+- Provide actionable insights for hotel management.
+- Reduce revenue loss by identifying cancellation drivers.
+- Enhance strategic decision-making with data visualization.
+
+- Integrate real-time booking data.
+- Expand regional analysis for global hotel chains.
