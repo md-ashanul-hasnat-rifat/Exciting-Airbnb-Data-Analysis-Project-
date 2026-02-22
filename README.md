@@ -30,7 +30,7 @@ This project provides a comprehensive analysis of hotel booking data, focusing o
 6. **Revenue by Region**
    - Country-level revenue contributions (e.g., Portugal leading at $9M).
 
-![Hotel Management Dashboard](Hotel management Data.jpg)
+![Hotel Management Dashboard](images/hotel_management_data.jpg)
 ---
 
 ## 🛠️ Tech Stack
