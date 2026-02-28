@@ -1,7 +1,7 @@
 # Hotel Management Booking Data Analysis Dashboard
 
 ## Overview
-This project provides a comprehensive analysis of hotel booking data, focusing on revenue, cancellations, lead times, and distribution channels. The dashboard is designed to help hotel management teams make data-driven decisions to optimize performance and reduce revenue loss.
+This project provides a comprehensive analysis of hotel booking data, focusing on revenue, cancellations, lead times, and distribution channels. The dashboard is designed to help hotel management teams make data-driven decisions to optimise performance and reduce revenue loss.
 
 ---
 
@@ -30,7 +30,7 @@ This project provides a comprehensive analysis of hotel booking data, focusing o
 6. **Revenue by Region**
    - Country-level revenue contributions (e.g., Portugal leading at $9M).
 
-![Hotel Management Dashboard](images/hotel_management_data.jpg)
+![Hotel Management Dashboard](Hotel_management_Dashboard.jpg)
 ---
 
 ## 🛠️ Tech Stack
